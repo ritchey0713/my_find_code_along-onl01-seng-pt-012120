@@ -1,6 +1,5 @@
 require 'pry'
 
-
 def my_find(collection)
   element = 0
   while element < collection.length
